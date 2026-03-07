@@ -1,4 +1,5 @@
 # use stack overflow for researching error
+#can use python Documentation to learn python
 #this is the format to print things in Python: print("some text")
 print("Hello World!") #Prints a string into the console. 
 
