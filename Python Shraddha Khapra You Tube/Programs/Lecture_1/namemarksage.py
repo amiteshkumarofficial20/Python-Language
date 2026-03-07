@@ -1,0 +1,8 @@
+name = input("Enter Your Name: ")
+print(name)
+age = int(input("Enter Your Age: "))
+print(age)
+marks_10th = float(input("Enter Your Marks In 10th Boards: "))
+print(marks_10th)
+marks_12th = float(input("Enter Your Marks In 12th Boards: "))
+print(marks_12th)
